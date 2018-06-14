@@ -1,0 +1,11 @@
+{
+  "name": "jsfuntimes",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Emily Platzer",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
